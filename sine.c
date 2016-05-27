@@ -29,7 +29,7 @@ double zehnSine(void) {
 	double sinus;
 	int i;
 	
-	printf("winkel   sinus");
+	printf("winkel   sinus\n");
 
 	for (i = 0; i <= 36; i++) {
 		winkel = i * 10;
